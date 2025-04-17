@@ -14,21 +14,23 @@
 
 <p align="left">
   <a href="https://x.com/KadGauri1002" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/gaurikad/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" />
   </a>
   <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png" alt="LeetCode" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" />
   </a>
 </p>
+
+
 
 
 ---
