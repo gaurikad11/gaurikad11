@@ -2,11 +2,11 @@
 
 ##  About Me:
 
-- 💻 Learning DSA and leveling up my Data Science game
-- 🤖 Love building cool stuff with AI & ML.
-- 🚀 Open to internships and job roles.
-- 🔍 Looking for exciting internship & job opportunities
-- 📬 Let’s connect! Reach out at **grkad25@gmail.com**
+💻 Learning DSA and leveling up my Data Science game
+🤖 Love building cool stuff with AI & ML.
+🚀 Open to internships and job roles.
+🔍 Looking for exciting internship & job opportunities
+📬 Let’s connect! Reach out at **grkad25@gmail.com**
 
 
 ## Connect with me:
