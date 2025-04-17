@@ -8,44 +8,32 @@
 - 🔍 Looking for exciting internship & job opportunities
 - 📬 Let’s connect! Reach out at **grkad25@gmail.com**
 
----
 
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank" style="text-decoration: none;">
-    <span>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" />
-    </span>
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/KadGauri1002" target="_blank" style="text-decoration: none;">
-    <span>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="30" />
-    </span>
+  <a href="https://x.com/KadGauri1002" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="33" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/gaurikad/" target="_blank" style="text-decoration: none;">
-    <span>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" />
-    </span>
+  <a href="https://www.linkedin.com/in/gaurikad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank" style="text-decoration: none;">
-    <span>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="35" />
-    </span>
+  <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="35" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank" style="text-decoration: none;">
-    <span>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50" />
-    </span>
+  <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50" />
   </a>
 </p>
 
 
----
 
 ## Tech Stack
 
@@ -76,14 +64,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
 
 ## GitHub Stats
 
 ![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurikad11&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikad11&layout=compact&theme=radical)
 
----
+
 
 
 
