@@ -13,10 +13,10 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank" style="margin-right: 25px;">
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank" style="margin-right: 50px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
   </a>
-  <a href="https://x.com/KadGauri1002" target="_blank" style="margin-right: 25px;">
+  <a href="https://x.com/KadGauri1002" target="_blank" style="margin-right: 50px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/gaurikad/" target="_blank" style="margin-right: 25px;">
