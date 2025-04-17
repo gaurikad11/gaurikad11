@@ -14,21 +14,36 @@
 
 <p align="left">
   <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <span style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" />
+    </span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/KadGauri1002" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="35" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <span style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="50" />
+    </span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/gaurikad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <span style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" />
+    </span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <span style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="35" />
+    </span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50" />
+    <span style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50" />
+    </span>
   </a>
 </p>
+
 
 ---
 
@@ -65,8 +80,8 @@
 
 ### 📊 GitHub Stats
 
-![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurikad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikad&layout=compact&theme=radical)
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurikad11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikad11&layout=compact&theme=radical)
 
 ---
 
