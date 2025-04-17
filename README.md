@@ -12,7 +12,6 @@
 
 ### 🔗 Connect With Me
 
-<a href="https://www.instagram.com/your_instagram_username/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" /></a>   
 <a href="https://x.com/KadGauri1002"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/X_logo_2023.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
 <a href="https://www.linkedin.com/in/gaurikad/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
 <a href="https://leetcode.com/u/dtgf9foL5e/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
