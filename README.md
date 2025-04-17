@@ -13,8 +13,8 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/KadGauri1002" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
+  <a href="https://x.com/KadGauri1002" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/gaurikad/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
@@ -29,6 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" />
   </a>
 </p>
+
 
 ---
 
