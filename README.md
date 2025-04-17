@@ -26,7 +26,7 @@
     <img src="![image](https://github.com/user-attachments/assets/627f09a0-cfcf-4c9c-a786-35c3ba839e12)" alt="LeetCode" width="30" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)" alt="GeeksforGeeks" width="30" />
+    <img src="[[https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/devyaniche3mk)" alt="GeeksforGeeks" width="30" />
   </a>
 </p>
 
