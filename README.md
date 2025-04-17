@@ -12,11 +12,11 @@
 
 ### 🔗 Connect With Me
 
-[![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/your_instagram_username/)
-[![X Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/X_logo_2023.png)](https://x.com/KadGauri1002)  
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/gaurikad/)  
-[![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png)](https://leetcode.com/u/dtgf9foL5e/)  
-[![GeeksforGeeks Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/GeeksforGeeks_Logo.png)](https://www.geeksforgeeks.org/user/grkap758/)  
+<a href="https://www.instagram.com/your_instagram_username/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" /></a>   
+<a href="https://x.com/KadGauri1002"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/X_logo_2023.png" width="30" /></a>  
+<a href="https://www.linkedin.com/in/gaurikad/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png" width="30" /></a>  
+<a href="https://leetcode.com/u/dtgf9foL5e/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png" width="30" /></a>  
+<a href="https://www.geeksforgeeks.org/user/grkap758/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/GeeksforGeeks_Logo.png" width="30" /></a>  
 
 ---
 
