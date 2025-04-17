@@ -12,11 +12,22 @@
 
 ### 🔗 Connect With Me
 
-<a href="https://www.instagram.com/your_instagram_username/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
-<a href="https://x.com/KadGauri1002"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/X_logo_2023.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
-<a href="https://www.linkedin.com/in/gaurikad/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
-<a href="https://leetcode.com/u/dtgf9foL5e/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
-<a href="https://www.geeksforgeeks.org/user/grkap758/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/GeeksforGeeks_Logo.png" width="30" style="display:inline-block; margin-right: 10px;" /></a>
+
+<a href="https://www.instagram.com/your_instagram_username/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" style="display:inline-block; margin-right: 10px;" />
+</a>
+<a href="https://x.com/KadGauri1002">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/X_logo_2023.png" width="30" style="display:inline-block; margin-right: 10px;" />
+</a>
+<a href="https://www.linkedin.com/in/gaurikad/">
+    <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="30" style="display:inline-block; margin-right: 10px;" />
+</a>
+<a href="https://leetcode.com/u/dtgf9foL5e/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" style="display:inline-block; margin-right: 10px;" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/grkap758/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks_logo.png" width="30" style="display:inline-block; margin-right: 10px;" />
+</a>
 
 ---
 
