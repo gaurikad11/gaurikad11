@@ -14,22 +14,21 @@
 
 <p align="left">
   <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" style="margin-right: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/KadGauri1002" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="50" style="margin-right: 15px;" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gaurikad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" style="margin-right: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" style="margin-right: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="70" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50" />
   </a>
 </p>
-
 
 ---
 
