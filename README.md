@@ -12,26 +12,23 @@
 
 ### 🔗 Connect With Me
 
-### 🔗 Connect With Me
-
 <p align="left">
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25"/>
-  </a>
-  <a href="https://x.com/KadGauri1002" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="25"/>
+  <a href="https://twitter.com/KadGauri1002" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/gaurikad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
   </a>
   <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="25"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png" alt="LeetCode" width="30" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=flat&logo=geeksforgeeks&logoColor=white" height="25"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" />
   </a>
 </p>
-
 
 ---
 
