@@ -23,7 +23,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" />
   </a>
   <a href="https://leetcode.com/u/dtgf9foL5e/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png)" alt="LeetCode" width="50" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/grkap758/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50" />
