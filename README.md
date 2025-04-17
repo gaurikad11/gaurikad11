@@ -2,20 +2,21 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently exploring DSA
-- 🤖 Passionate about AI, ML, and cool tech projects
-- 🎯 Polishing my data science skills
+- 💻 Learning DSA and leveling up my Data Science game
+- 🤖 Love building cool stuff with AI & ML.
+- 🚀 Open to internships and job roles.
 - 🔍 Looking for exciting internship & job opportunities
-- 📫 Reach me at: **grkad25@gmail.com**
+- 📬 Let’s connect! Reach out at **grkad25@gmail.com**
 
 ---
 
 ### 🔗 Connect With Me
 
-[![X](https://img.shields.io/badge/X-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KadGauri1002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurikad/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dtgf9foL5e/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/grkap758/)
+[![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/your_instagram_username/)
+[![X Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/X_logo_2023.png)](https://x.com/KadGauri1002)  
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/gaurikad/)  
+[![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo.png)](https://leetcode.com/u/dtgf9foL5e/)  
+[![GeeksforGeeks Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/GeeksforGeeks_Logo.png)](https://www.geeksforgeeks.org/user/grkap758/)  
 
 ---
 
@@ -29,11 +30,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 📚 Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,6 +43,7 @@
 #### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
